@@ -1,0 +1,800 @@
+title:MAGMI by dweeves - version:0.7.19a
+startup:Running Magmi Product Import Engine v1.8.2 by dweeves
+startup:Import Profile:default
+startup:Import Mode:create
+step:step:0.5%
+plugin;Magmi_CSVDataSource;pluginhello:CSV Datasource-1.3.1-Dweeves- 
+plugin;ImageAttributeItemProcessor;pluginhello:Image attributes processor-1.0.29-Dweeves-http://wiki.magmi.org/index.php?title=Image_attributes_processor 
+plugin;Magmi_ConfigurableItemProcessor;pluginhello:Configurable Item processor-1.3.7a-Dweeves-http://wiki.magmi.org/index.php?title=Configurable_Item_processor 
+plugin;Magmi_DefaultAttributeItemProcessor;pluginhello:Standard Attribute Import-1.0.6-Dweeves- 
+plugin;Magmi_CSVDataSource;startup:CSV Datasource v1.3.1 - Importing CSV : /home/c/collerya/collerya.bget.ru/public_html/var/import/import.csv using separator [ , ] enclosing [ " ]
+startup:Performing Datasouce Lookup...
+lookup:1974:0.0608448982239
+startup:Found 1974 records, took 0.0608448982239 sec
+plugin;Magmi_CSVDataSource;startup:CSV Datasource v1.3.1 - No BOM detected, assuming File is UTF8 without BOM...
+plugin;Magmi_CSVDataSource;startup:CSV Datasource v1.3.1 - 31 CSV headers columns found
+columns:31
+plugin;Magmi_ConfigurableItemProcessor;startup:Configurable Item processor v1.3.7a - no options_container set, defaulting to :Block after product info
+plugin;Magmi_DefaultAttributeItemProcessor;startup:Standard Attribute Import v1.0.6 - Newly created items will have default values for columns:store,page_layout
+startup:Ajusted processed columns:34
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60332-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1999-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/3002-1.JPG cannot be found in images path
+itime:10 - 0.229512929916 - 0.229512929916
+dbtime:251 - 0.198354482651 - 0.198354482651 - 251
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4019-5.JPG cannot be found in images path
+itime:20 - 0.510855913162 - 0.281204938889
+dbtime:525 - 0.43868803978 - 0.240333557129 - 274
+itime:30 - 0.78084397316 - 0.26978802681
+dbtime:811 - 0.666494607925 - 0.227806568146 - 286
+itime:40 - 1.00977087021 - 0.228783845901
+dbtime:1113 - 0.859639883041 - 0.193145275116 - 302
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4020-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/210-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/13-119.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10011(AV).JPG cannot be found in images path
+itime:50 - 1.23665785789 - 0.226731777191
+dbtime:1371 - 1.04882597923 - 0.189186096191 - 258
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/a09-003.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/65095-2.JPG cannot be found in images path
+itime:60 - 1.49926805496 - 0.262465000153
+dbtime:1657 - 1.2718629837 - 0.223037004471 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/022-1.JPG cannot be found in images path
+itime:70 - 1.73638296127 - 0.236986875534
+dbtime:1939 - 1.47345709801 - 0.201594114304 - 282
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72903-3.JPG cannot be found in images path
+itime:80 - 1.98556995392 - 0.248991966248
+dbtime:2225 - 1.68634772301 - 0.212890625 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/6023 H/1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60910-7.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/1027-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72382-3.JPG cannot be found in images path
+itime:90 - 2.18153905869 - 0.195815086365
+dbtime:2451 - 1.84988355637 - 0.163535833359 - 226
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/1028-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/73005-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-30.JPG cannot be found in images path
+itime:100 - 2.38397502899 - 0.202284097672
+dbtime:2701 - 2.01947379112 - 0.169590234756 - 250
+itime:110 - 2.61390590668 - 0.229738950729
+dbtime:3007 - 2.20996856689 - 0.190494775772 - 306
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43050.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil-10-021-8.JPG cannot be found in images path
+itime:120 - 2.82471895218 - 0.210665941238
+dbtime:3273 - 2.38545536995 - 0.175486803055 - 266
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12003.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-86.JPG cannot be found in images path
+itime:130 - 3.03948497772 - 0.214627027512
+dbtime:3559 - 2.56514453888 - 0.17968916893 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/033-1.JPG cannot be found in images path
+itime:140 - 3.2487859726 - 0.20915389061
+dbtime:3829 - 2.74147629738 - 0.176331758499 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/1091-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/51-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10026.JPG cannot be found in images path
+itime:150 - 3.45226693153 - 0.203316926956
+dbtime:4103 - 2.91132068634 - 0.169844388962 - 274
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71302-4.JPG cannot be found in images path
+itime:160 - 3.68886899948 - 0.23645401001
+dbtime:4385 - 3.11316847801 - 0.201847791672 - 282
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56773-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10024.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4019-4.JPG cannot be found in images path
+itime:170 - 4.02514386177 - 0.336092948914
+dbtime:4655 - 3.40129089355 - 0.288122415543 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09001(AV).JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/70507-10.JPG cannot be found in images path
+itime:180 - 4.23029589653 - 0.205016851425
+dbtime:4865 - 3.56297826767 - 0.161687374115 - 210
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4019-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/70507-14.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-20.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-33.JPG cannot be found in images path
+itime:190 - 4.44196486473 - 0.211527824402
+dbtime:5075 - 3.74159216881 - 0.178613901138 - 210
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43041.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/022-4.JPG cannot be found in images path
+itime:200 - 4.69383597374 - 0.25168299675
+dbtime:5353 - 3.95432591438 - 0.212733745575 - 278
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4020-4.JPG cannot be found in images path
+itime:210 - 4.9508690834 - 0.256874084473
+dbtime:5623 - 4.16952705383 - 0.21520113945 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09-008.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56773-5.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/6023 H/3.JPG cannot be found in images path
+itime:220 - 5.18734693527 - 0.236248016357
+dbtime:5837 - 4.37174010277 - 0.202213048935 - 214
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/6020 H/7.JPG cannot be found in images path
+itime:230 - 5.40744495392 - 0.219964981079
+dbtime:6051 - 4.55852770805 - 0.186787605286 - 214
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/3001-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60301-7.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1222-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/05-2.JPG cannot be found in images path
+itime:240 - 5.63763904572 - 0.23003911972
+dbtime:6301 - 4.75293803215 - 0.194410324097 - 250
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/05-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/73173-6.JPG cannot be found in images path
+itime:250 - 5.92521190643 - 0.287374019623
+dbtime:6575 - 5.00141835213 - 0.248480319977 - 274
+itime:260 - 6.19773387909 - 0.272323846817
+dbtime:6881 - 5.22998380661 - 0.228565454483 - 306
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/2333-1.JPG cannot be found in images path
+itime:270 - 6.4266409874 - 0.228763103485
+dbtime:7175 - 5.41155076027 - 0.181566953659 - 294
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43045.JPG cannot be found in images path
+itime:280 - 6.69341897964 - 0.266618013382
+dbtime:7461 - 5.63943052292 - 0.22787976265 - 286
+itime:290 - 6.99129700661 - 0.297716140747
+dbtime:7759 - 5.89470291138 - 0.255272388458 - 298
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-59.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43039-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60301-5.JPG cannot be found in images path
+itime:300 - 7.22644591331 - 0.234997034073
+dbtime:8029 - 6.09448838234 - 0.199785470963 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1702-2.JPG cannot be found in images path
+itime:310 - 7.42623400688 - 0.199635028839
+dbtime:8271 - 6.26343297958 - 0.168944597244 - 242
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/001-8.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56775-24.JPG cannot be found in images path
+itime:320 - 7.63194894791 - 0.205556869507
+dbtime:8521 - 6.43792510033 - 0.174492120743 - 250
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/41754.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1709-8б.JPG cannot be found in images path
+itime:330 - 7.86015987396 - 0.228044986725
+dbtime:8795 - 6.63226532936 - 0.194340229034 - 274
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /optodon/4008-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12002.JPG cannot be found in images path
+itime:340 - 8.0543820858 - 0.194075107574
+dbtime:9049 - 6.79458427429 - 0.162318944931 - 254
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60301-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/66709-13.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1702.JPG cannot be found in images path
+itime:350 - 8.26040887833 - 0.205878973007
+dbtime:9319 - 6.96396422386 - 0.16937994957 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72377.JPG cannot be found in images path
+itime:360 - 8.46198987961 - 0.20058298111
+dbtime:9597 - 7.13257288933 - 0.168608665466 - 278
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-52.JPG cannot be found in images path
+itime:370 - 8.6705300808 - 0.208372116089
+dbtime:9859 - 7.30977535248 - 0.17720246315 - 262
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-34.JPG cannot be found in images path
+itime:380 - 8.87523603439 - 0.204556941986
+dbtime:10133 - 7.4832868576 - 0.173511505127 - 274
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43039-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1334-2.JPG cannot be found in images path
+itime:390 - 9.13647389412 - 0.261086940765
+dbtime:10407 - 7.70429515839 - 0.221008300781 - 274
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/180140-1.JPG cannot be found in images path
+itime:400 - 9.41371893883 - 0.27709197998
+dbtime:10657 - 7.89384150505 - 0.189546346664 - 250
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/057-1.JPG cannot be found in images path
+itime:410 - 9.63699507713 - 0.223090171814
+dbtime:10947 - 8.0800716877 - 0.186230182648 - 290
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/211-1.JPG cannot be found in images path
+itime:420 - 9.87515497208 - 0.237986087799
+dbtime:11209 - 8.28206682205 - 0.201995134354 - 262
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/70507-6.JPG cannot be found in images path
+itime:430 - 10.1392838955 - 0.263957023621
+dbtime:11507 - 8.50604009628 - 0.223973274231 - 298
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/0215-4.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/65095-23.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/10215-2.JPG cannot be found in images path
+itime:440 - 10.3668370247 - 0.227411985397
+dbtime:11753 - 8.69525718689 - 0.189217090607 - 246
+itime:450 - 10.5811638832 - 0.214144945145
+dbtime:12019 - 8.87720322609 - 0.1819460392 - 266
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71306.JPG cannot be found in images path
+itime:460 - 10.8472940922 - 0.265962123871
+dbtime:12313 - 9.10301613808 - 0.225812911987 - 294
+itime:470 - 11.1307358742 - 0.283291816711
+dbtime:12603 - 9.34731817245 - 0.244302034378 - 290
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71301-8.JPG cannot be found in images path
+itime:480 - 11.3611590862 - 0.230285167694
+dbtime:12885 - 9.54215335846 - 0.194835186005 - 282
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-42.JPG cannot be found in images path
+itime:490 - 11.5801010132 - 0.218797922134
+dbtime:13162 - 9.72582983971 - 0.183676481247 - 277
+itime:500 - 11.7958099842 - 0.215570926666
+dbtime:13436 - 9.90654110909 - 0.180711269379 - 274
+itime:510 - 12.0039739609 - 0.208016872406
+dbtime:13706 - 10.0824093819 - 0.175868272781 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56773.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /optodon/9811074-1.JPG cannot be found in images path
+itime:520 - 12.1868929863 - 0.18275308609
+dbtime:13956 - 10.2317318916 - 0.149322509766 - 250
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1334-4.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/73673-2.JPG cannot be found in images path
+itime:530 - 12.3898489475 - 0.202769041061
+dbtime:14230 - 10.401124239 - 0.169392347336 - 274
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/65095-19.JPG cannot be found in images path
+itime:540 - 12.5684449673 - 0.178452968597
+dbtime:14464 - 10.5498149395 - 0.148690700531 - 234
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/70507-15.JPG cannot be found in images path
+itime:550 - 12.8146700859 - 0.246088027954
+dbtime:14762 - 10.7606344223 - 0.210819482803 - 298
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/223-1.JPG cannot be found in images path
+itime:560 - 13.0610489845 - 0.246239900589
+dbtime:15056 - 10.9687399864 - 0.208105564117 - 294
+itime:570 - 13.2751340866 - 0.21392416954
+dbtime:15362 - 11.1491513252 - 0.180411338806 - 306
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60709.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09-0051.JPG cannot be found in images path
+itime:580 - 13.4900560379 - 0.214749097824
+dbtime:15612 - 11.3293745518 - 0.180223226547 - 250
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71307.JPG cannot be found in images path
+itime:590 - 13.6974079609 - 0.207180023193
+dbtime:15910 - 11.5056519508 - 0.176277399063 - 298
+itime:600 - 13.8910610676 - 0.193502187729
+dbtime:16168 - 11.6717469692 - 0.166095018387 - 258
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/243.JPG cannot be found in images path
+itime:610 - 14.1101779938 - 0.218970060349
+dbtime:16454 - 11.8558912277 - 0.184144258499 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12-006(AV).JPG cannot be found in images path
+itime:620 - 14.331004858 - 0.220674991608
+dbtime:16716 - 12.0389213562 - 0.183030128479 - 262
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72382-6.JPG cannot be found in images path
+itime:630 - 14.5322709084 - 0.201109886169
+dbtime:17002 - 12.2099440098 - 0.17102265358 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1222-3.JPG cannot be found in images path
+itime:640 - 14.7840030193 - 0.251601934433
+dbtime:17300 - 12.4268188477 - 0.216874837875 - 298
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/223-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4022-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43043.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60910-3.JPG cannot be found in images path
+itime:650 - 15.0310230255 - 0.246863126755
+dbtime:17534 - 12.6353714466 - 0.208552598953 - 234
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1709-9ш.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72908-1.JPG cannot be found in images path
+itime:660 - 15.2255458832 - 0.194295883179
+dbtime:17748 - 12.798160553 - 0.162789106369 - 214
+itime:670 - 15.4397928715 - 0.214109897614
+dbtime:18026 - 12.9794251919 - 0.181264638901 - 278
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/003-1б.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/0225-5.JPG cannot be found in images path
+itime:680 - 15.6395220757 - 0.199565172195
+dbtime:18268 - 13.1451206207 - 0.165695428848 - 242
+itime:690 - 15.8621809483 - 0.222501993179
+dbtime:18530 - 13.3333468437 - 0.188226222992 - 262
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12003.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12-005.JPG cannot be found in images path
+itime:700 - 16.0918209553 - 0.229443073273
+dbtime:18812 - 13.523750782 - 0.190403938293 - 282
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/223-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43041.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-20.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /Даortek/60331-29.JPG cannot be found in images path
+itime:710 - 16.3384070396 - 0.246443986893
+dbtime:19062 - 13.7308337688 - 0.207082986832 - 250
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-26.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-62.JPG cannot be found in images path
+itime:720 - 16.57062006 - 0.232053995132
+dbtime:19332 - 13.9287209511 - 0.197887182236 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1709-9ш.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72908-1.JPG cannot be found in images path
+itime:730 - 16.7963600159 - 0.225609064102
+dbtime:19602 - 14.1143941879 - 0.185673236847 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/3001-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43039-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10028.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-21.JPG cannot be found in images path
+itime:740 - 16.9846870899 - 0.18818116188
+dbtime:19848 - 14.2731926441 - 0.158798456192 - 246
+itime:750 - 17.1776440144 - 0.19281411171
+dbtime:20101 - 14.4353442192 - 0.162151575089 - 253
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10024.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/66709-4.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43046.JPG cannot be found in images path
+itime:760 - 17.3705348969 - 0.192690849304
+dbtime:20335 - 14.5960268974 - 0.160682678223 - 234
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/1014.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/73005-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-19.JPG cannot be found in images path
+itime:770 - 17.6300189495 - 0.259311914444
+dbtime:20601 - 14.8210375309 - 0.225010633469 - 266
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-52.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/73173-1.JPG cannot be found in images path
+itime:780 - 17.8419258595 - 0.211724996567
+dbtime:20835 - 15.0052201748 - 0.18418264389 - 234
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/66709-14.JPG cannot be found in images path
+itime:790 - 18.0477778912 - 0.205619812012
+dbtime:21097 - 15.1778550148 - 0.172634840012 - 262
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/73173-2.JPG cannot be found in images path
+itime:800 - 18.2663180828 - 0.218382120132
+dbtime:21383 - 15.3653454781 - 0.187490463257 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-37.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/11012.JPG cannot be found in images path
+itime:810 - 18.4637150764 - 0.197259187698
+dbtime:21629 - 15.5317659378 - 0.166420459747 - 246
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43045.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/65095-13.JPG cannot be found in images path
+itime:820 - 18.6514019966 - 0.187537908554
+dbtime:21895 - 15.6901323795 - 0.158366441727 - 266
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/70507-15.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56775-9.JPG cannot be found in images path
+itime:830 - 18.8528869152 - 0.201352834702
+dbtime:22181 - 15.8607008457 - 0.170568466187 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60301-5.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/223-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-34.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-86.JPG cannot be found in images path
+itime:840 - 19.0323340893 - 0.179214000702
+dbtime:22407 - 16.0109376907 - 0.150236845016 - 226
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43035.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71307.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72382-3.JPG cannot be found in images path
+itime:850 - 19.2444689274 - 0.211922883987
+dbtime:22653 - 16.1922872066 - 0.181349515915 - 246
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72372.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71302-1.JPG cannot be found in images path
+itime:860 - 19.4541518688 - 0.209538936615
+dbtime:22934 - 16.3695425987 - 0.177255392075 - 281
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/9811075-1.JPG cannot be found in images path
+itime:870 - 19.6655340195 - 0.211229085922
+dbtime:23228 - 16.5500869751 - 0.180544376373 - 294
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /optodon/4008-1.JPG cannot be found in images path
+itime:880 - 19.8823840618 - 0.216695070267
+dbtime:23514 - 16.7335112095 - 0.18342423439 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/223-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/326.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/200-08.JPG cannot be found in images path
+itime:890 - 20.0988168716 - 0.216304779053
+dbtime:23756 - 16.917525053 - 0.184013843536 - 242
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/223-5.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4012-1.JPG cannot be found in images path
+itime:900 - 20.279489994 - 0.180490016937
+dbtime:23970 - 17.0651993752 - 0.147674322128 - 214
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/324.JPG cannot be found in images path
+itime:910 - 20.4842119217 - 0.204577922821
+dbtime:24260 - 17.2377467155 - 0.172547340393 - 290
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/65695-5.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1709-8б.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/210-1.JPG cannot be found in images path
+itime:920 - 20.7268850803 - 0.242536067963
+dbtime:24498 - 17.4362044334 - 0.198457717896 - 238
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72918-3.JPG cannot be found in images path
+itime:930 - 20.9444639683 - 0.217423915863
+dbtime:24784 - 17.6155791283 - 0.179374694824 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/234.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/204-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/73673-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43043.JPG cannot be found in images path
+itime:940 - 21.1366300583 - 0.192030191422
+dbtime:25010 - 17.7754848003 - 0.159905672073 - 226
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10029.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60910-7.JPG cannot be found in images path
+itime:950 - 21.346768856 - 0.209991931915
+dbtime:25296 - 17.9477212429 - 0.172236442566 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56773-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/254.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60301-3.JPG cannot be found in images path
+itime:960 - 21.6479809284 - 0.301064968109
+dbtime:25554 - 18.2071049213 - 0.259383678436 - 258
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/0216-3.JPG cannot be found in images path
+itime:970 - 22.0009889603 - 0.352849006653
+dbtime:25796 - 18.5155408382 - 0.308435916901 - 242
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09-008.JPG cannot be found in images path
+itime:980 - 22.3167879581 - 0.315629959106
+dbtime:26046 - 18.7926156521 - 0.277074813843 - 250
+itime:990 - 22.6019699574 - 0.284971952438
+dbtime:26308 - 19.0405781269 - 0.247962474823 - 262
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09-0051.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/1075-3.JPG cannot be found in images path
+itime:1000 - 22.8690450191 - 0.266915082932
+dbtime:26574 - 19.2708997726 - 0.230321645737 - 266
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/211-1.JPG cannot be found in images path
+itime:1010 - 23.0916678905 - 0.222457885742
+dbtime:26840 - 19.4590332508 - 0.188133478165 - 266
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1555-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/22014.JPG cannot be found in images path
+itime:1020 - 23.2883360386 - 0.196527957916
+dbtime:27098 - 19.6245281696 - 0.165494918823 - 258
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60333-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/2333-1.JPG cannot be found in images path
+itime:1030 - 23.4771058559 - 0.188618898392
+dbtime:27368 - 19.781847477 - 0.157319307327 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09-004.JPG cannot be found in images path
+itime:1040 - 23.6781630516 - 0.200903177261
+dbtime:27650 - 19.9497485161 - 0.167901039124 - 282
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-33.JPG cannot be found in images path
+itime:1050 - 23.8981409073 - 0.219835996628
+dbtime:27920 - 20.1363334656 - 0.186584949493 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4018-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43048.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/a09-004.JPG cannot be found in images path
+itime:1060 - 24.1121230125 - 0.213835954666
+dbtime:28174 - 20.3188436031 - 0.182510137558 - 254
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4019-2.JPG cannot be found in images path
+itime:1070 - 24.3059999943 - 0.193741083145
+dbtime:28432 - 20.481004715 - 0.162161111832 - 258
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72376-3.JPG cannot be found in images path
+itime:1080 - 24.4850900173 - 0.178930044174
+dbtime:28654 - 20.628370285 - 0.147365570068 - 222
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/65095-14.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/22555-1.JPG cannot be found in images path
+itime:1090 - 24.7146148682 - 0.229379892349
+dbtime:28915 - 20.8184914589 - 0.190121173859 - 261
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1334-5.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56773-5.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4022-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-38.JPG cannot be found in images path
+itime:1100 - 24.9300119877 - 0.215200901031
+dbtime:29141 - 20.9952757359 - 0.176784276962 - 226
+itime:1110 - 25.1735670567 - 0.243348121643
+dbtime:29399 - 21.2006707191 - 0.205394983292 - 258
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71307-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4021.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4022-7.JPG cannot be found in images path
+itime:1120 - 25.391053915 - 0.217339038849
+dbtime:29649 - 21.3831007481 - 0.182430028915 - 250
+itime:1130 - 25.601872921 - 0.210650920868
+dbtime:29883 - 21.557993412 - 0.174892663956 - 234
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-68.JPG cannot be found in images path
+itime:1140 - 25.8141229153 - 0.212107896805
+dbtime:30141 - 21.7276077271 - 0.169614315033 - 258
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/1027-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56775-29.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/0011-1ш.JPG cannot be found in images path
+itime:1150 - 25.9807879925 - 0.166528940201
+dbtime:30367 - 21.8660514355 - 0.13844370842 - 226
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/001-1ш.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/001-8.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/66709-14.JPG cannot be found in images path
+itime:1160 - 26.1838030815 - 0.202841997147
+dbtime:30581 - 22.0356998444 - 0.16964840889 - 214
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71302-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12-005.JPG cannot be found in images path
+itime:1170 - 26.4323019981 - 0.24834895134
+dbtime:30859 - 22.2429988384 - 0.207298994064 - 278
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/70825-8.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /optodon/4008-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71307-2.JPG cannot be found in images path
+itime:1180 - 26.6251950264 - 0.192724943161
+dbtime:31129 - 22.4028909206 - 0.159892082214 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/2223-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/73005-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-68.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/024-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/73673-1.JPG cannot be found in images path
+itime:1190 - 26.844837904 - 0.219512939453
+dbtime:31363 - 22.5803568363 - 0.17746591568 - 234
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43043.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56773-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56773-17.JPG cannot be found in images path
+itime:1200 - 27.0489549637 - 0.203978061676
+dbtime:31609 - 22.7497253418 - 0.169368505478 - 246
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1709/10ш.JPG cannot be found in images path
+itime:1210 - 27.3183910847 - 0.269263029099
+dbtime:31891 - 22.9824824333 - 0.232757091522 - 282
+itime:1220 - 27.5349290371 - 0.216381072998
+dbtime:32189 - 23.1642553806 - 0.181772947311 - 298
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/65095-13.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1222-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/022-7.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/022-2.JPG cannot be found in images path
+itime:1230 - 27.7237150669 - 0.188632011414
+dbtime:32443 - 23.3202972412 - 0.15604186058 - 254
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72918-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/022-9.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/022-8.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60301-3.JPG cannot be found in images path
+itime:1240 - 27.8846869469 - 0.160812854767
+dbtime:32665 - 23.4530422688 - 0.132745027542 - 222
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/a09-004.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/3001-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72377.JPG cannot be found in images path
+itime:1250 - 28.0858879089 - 0.201068878174
+dbtime:32923 - 23.6223375797 - 0.169295310974 - 258
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/65095-4.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12-002(АV).JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-50.JPG cannot be found in images path
+itime:1260 - 28.2796709538 - 0.193641901016
+dbtime:33181 - 23.7848398685 - 0.162502288818 - 258
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/73173-6.JPG cannot be found in images path
+itime:1270 - 28.4893369675 - 0.209520101547
+dbtime:33459 - 23.9588057995 - 0.173965930939 - 278
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-18.JPG cannot be found in images path
+itime:1280 - 28.7072980404 - 0.217815160751
+dbtime:33749 - 24.1423838139 - 0.183578014374 - 290
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43035.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10024.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09-0051.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-17.JPG cannot be found in images path
+itime:1290 - 28.900728941 - 0.193281888962
+dbtime:33999 - 24.3007254601 - 0.158341646194 - 250
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43039-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-34.JPG cannot be found in images path
+itime:1300 - 29.1668930054 - 0.26602101326
+dbtime:34253 - 24.5303010941 - 0.229575634003 - 254
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/66709-13.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/13-100.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/211-2.JPG cannot be found in images path
+itime:1310 - 29.3785579205 - 0.211452007294
+dbtime:34483 - 24.7041027546 - 0.173801660538 - 230
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/03-2.JPG cannot be found in images path
+itime:1320 - 29.6496329308 - 0.27087187767
+dbtime:34753 - 24.9332294464 - 0.229126691818 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/9811075-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/223-4.JPG cannot be found in images path
+itime:1330 - 29.8535819054 - 0.203801870346
+dbtime:35003 - 25.1041796207 - 0.170950174332 - 250
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/41753.JPG cannot be found in images path
+itime:1340 - 30.0873019695 - 0.23356294632
+dbtime:35265 - 25.3011379242 - 0.196958303452 - 262
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4017-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/223-2.JPG cannot be found in images path
+itime:1350 - 30.3134610653 - 0.225970029831
+dbtime:35479 - 25.4907171726 - 0.189579248428 - 214
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43046.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4017-4.JPG cannot be found in images path
+itime:1360 - 30.5276730061 - 0.21406006813
+dbtime:35725 - 25.6685223579 - 0.177805185318 - 246
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72382-3.JPG cannot be found in images path
+itime:1370 - 30.7225399017 - 0.19470500946
+dbtime:35935 - 25.8161261082 - 0.147603750229 - 210
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1334-1.JPG cannot be found in images path
+itime:1380 - 30.9965920448 - 0.273852109909
+dbtime:36205 - 26.0534651279 - 0.237339019775 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4021-10.JPG cannot be found in images path
+itime:1390 - 31.3196148872 - 0.322829961777
+dbtime:36455 - 26.3307821751 - 0.277317047119 - 250
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72579-1.JPG cannot be found in images path
+itime:1400 - 31.648555994 - 0.328752994537
+dbtime:36717 - 26.6164531708 - 0.285670995712 - 262
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/248.JPG cannot be found in images path
+itime:1410 - 31.9773159027 - 0.328553915024
+dbtime:36983 - 26.8998041153 - 0.283350944519 - 266
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72372.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/223.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72566-2.JPG cannot be found in images path
+itime:1420 - 32.276321888 - 0.298846960068
+dbtime:37253 - 27.1542131901 - 0.254409074783 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09002(AV).JPG cannot be found in images path
+itime:1430 - 32.4976670742 - 0.221177101135
+dbtime:37539 - 27.3338842392 - 0.179671049118 - 286
+itime:1440 - 32.7428860664 - 0.245074987411
+dbtime:37821 - 27.5383470058 - 0.204462766647 - 282
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56775-17.JPG cannot be found in images path
+itime:1450 - 33.0538060665 - 0.310767173767
+dbtime:38103 - 27.8036663532 - 0.265319347382 - 282
+itime:1460 - 33.3341329098 - 0.280143976212
+dbtime:38409 - 28.0404312611 - 0.236764907837 - 306
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4019-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/70507-5.JPG cannot be found in images path
+itime:1470 - 33.6503770351 - 0.316020011902
+dbtime:38695 - 28.3062858582 - 0.265854597092 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4019-4.JPG cannot be found in images path
+itime:1480 - 33.9482769966 - 0.297744989395
+dbtime:38969 - 28.5603377819 - 0.254051923752 - 274
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/223-3.JPG cannot be found in images path
+itime:1490 - 34.3188340664 - 0.370362043381
+dbtime:39255 - 28.8823392391 - 0.322001457214 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-19.JPG cannot be found in images path
+itime:1500 - 34.6982839108 - 0.379302024841
+dbtime:39553 - 29.2164185047 - 0.334079265594 - 298
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-52.JPG cannot be found in images path
+itime:1510 - 35.1301460266 - 0.431694030762
+dbtime:39851 - 29.6011638641 - 0.384745359421 - 298
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-62.JPG cannot be found in images path
+itime:1520 - 35.5955820084 - 0.465256929398
+dbtime:40149 - 30.0193305016 - 0.418166637421 - 298
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/13-120.JPG cannot be found in images path
+itime:1530 - 35.956635952 - 0.360909938812
+dbtime:40435 - 30.3355457783 - 0.316215276718 - 286
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/70507-13.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43039-1.JPG cannot be found in images path
+itime:1540 - 36.3997869492 - 0.44294500351
+dbtime:40693 - 30.7287619114 - 0.393216133118 - 258
+itime:1550 - 36.7388799191 - 0.338934898376
+dbtime:40995 - 31.0220451355 - 0.293283224106 - 302
+itime:1560 - 37.1706449986 - 0.431620121002
+dbtime:41277 - 31.3971407413 - 0.37509560585 - 282
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/65095-23.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10-16-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72382-5.JPG cannot be found in images path
+itime:1570 - 37.4517560005 - 0.280910015106
+dbtime:41523 - 31.6330611706 - 0.23592042923 - 246
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43050.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4017-6.JPG cannot be found in images path
+itime:1580 - 37.7059578896 - 0.254050016403
+dbtime:41757 - 31.8447282314 - 0.211667060852 - 234
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/0211-4.JPG cannot be found in images path
+itime:1590 - 37.9252340794 - 0.219117164612
+dbtime:41967 - 32.0286040306 - 0.183875799179 - 210
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-45.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/47142.JPG cannot be found in images path
+itime:1600 - 38.2239379883 - 0.298562049866
+dbtime:42237 - 32.2867481709 - 0.258144140244 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60331-36.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4020-20.JPG cannot be found in images path
+itime:1610 - 38.5107560158 - 0.286648035049
+dbtime:42503 - 32.5322778225 - 0.245529651642 - 266
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09-008.JPG cannot be found in images path
+itime:1620 - 38.7919099331 - 0.280991077423
+dbtime:42745 - 32.7687408924 - 0.236463069916 - 242
+itime:1630 - 39.2550530434 - 0.462988138199
+dbtime:43015 - 33.1805346012 - 0.411793708801 - 270
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/63103-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72382-6.JPG cannot be found in images path
+itime:1640 - 39.7380859852 - 0.482824087143
+dbtime:43249 - 33.6147127151 - 0.434178113937 - 234
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/204-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/246.JPG cannot be found in images path
+itime:1650 - 40.3578698635 - 0.619617938995
+dbtime:43594 - 34.1735522747 - 0.558839559555 - 345
+itime:1660 - 40.9442830086 - 0.586276054382
+dbtime:44043 - 34.7000589371 - 0.526506662369 - 449
+itime:1670 - 41.5466210842 - 0.602171182632
+dbtime:44523 - 35.2357161045 - 0.535657167435 - 480
+itime:1680 - 41.9803369045 - 0.433552026749
+dbtime:45036 - 35.6001656055 - 0.364449501038 - 513
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72903-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/6023 H/1.JPG cannot be found in images path
+itime:1690 - 42.4573829174 - 0.476852893829
+dbtime:45526 - 36.0139713287 - 0.41380572319 - 490
+itime:1700 - 42.9533550739 - 0.49577999115
+dbtime:46034 - 36.4441478252 - 0.430176496506 - 508
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil-10-021-8.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12003.JPG cannot be found in images path
+itime:1710 - 43.3704910278 - 0.416983127594
+dbtime:46497 - 36.7962522507 - 0.35210442543 - 463
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/033-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/1091-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/51-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10026.JPG cannot be found in images path
+itime:1720 - 43.71763587 - 0.346929788589
+dbtime:46934 - 37.0933020115 - 0.297049760818 - 437
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/211-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56773-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /optodon/9811074-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10024.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4019-4.JPG cannot be found in images path
+itime:1730 - 44.0764598846 - 0.358665943146
+dbtime:47408 - 37.4018092155 - 0.308507204056 - 474
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09001(AV).JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/70507-15.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4019-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43041.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4020-4.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09-008.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/6023 H/3.JPG cannot be found in images path
+itime:1740 - 44.3988330364 - 0.322226047516
+dbtime:47832 - 37.6764509678 - 0.274641752243 - 424
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/6023 H/1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/6020 H/7.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/3001-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1222-3.JPG cannot be found in images path
+itime:1750 - 44.7446789742 - 0.345649957657
+dbtime:48294 - 37.9709510803 - 0.294500112534 - 462
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/73173-6.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56773.JPG cannot be found in images path
+itime:1760 - 45.1429200172 - 0.398086071014
+dbtime:48784 - 38.3134834766 - 0.342532396317 - 490
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43045.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/65695-5.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43039-2.JPG cannot be found in images path
+itime:1770 - 45.4794950485 - 0.336361169815
+dbtime:49248 - 38.5973885059 - 0.283905029297 - 464
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1702.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/56775-17.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/001-8.JPG cannot be found in images path
+itime:1780 - 45.8668649197 - 0.387208938599
+dbtime:49713 - 38.9241719246 - 0.326783418655 - 465
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/41754.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1709-8б.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /optodon/4008-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12002.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72377.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/0216-3.JPG cannot be found in images path
+itime:1790 - 46.1544868946 - 0.287447929382
+dbtime:50131 - 39.1645998955 - 0.240427970886 - 418
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43039-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1334-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/180140-1.JPG cannot be found in images path
+itime:1800 - 46.5122630596 - 0.357614040375
+dbtime:50591 - 39.4645245075 - 0.299924612045 - 460
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/057-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/243.JPG cannot be found in images path
+itime:1810 - 46.8399589062 - 0.327533006668
+dbtime:51063 - 39.7343578339 - 0.26983332634 - 472
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71306.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71301-8.JPG cannot be found in images path
+itime:1820 - 47.1702680588 - 0.330087184906
+dbtime:51523 - 40.0152077675 - 0.280849933624 - 460
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/0211-4.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1334-4.JPG cannot be found in images path
+itime:1830 - 47.5241799355 - 0.353746891022
+dbtime:51989 - 40.3115804195 - 0.296372652054 - 466
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/223.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60709.JPG cannot be found in images path
+itime:1840 - 47.9071609974 - 0.382818937302
+dbtime:52465 - 40.6367332935 - 0.325152873993 - 476
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09-0051.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/71307-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/024-1.JPG cannot be found in images path
+itime:1850 - 48.2881698608 - 0.380761861801
+dbtime:52921 - 40.9599847794 - 0.323251485825 - 456
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12-006(AV).JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4022-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43043.JPG cannot be found in images path
+itime:1860 - 48.661798954 - 0.373462915421
+dbtime:53385 - 41.2765221596 - 0.316537380219 - 464
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72908-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/001-1ш.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12-005.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10028.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43046.JPG cannot be found in images path
+itime:1870 - 48.9886660576 - 0.326724052429
+dbtime:53810 - 41.5477619171 - 0.271239757538 - 425
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/1014.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/11012.JPG cannot be found in images path
+itime:1880 - 49.3345329762 - 0.345721960068
+dbtime:54266 - 41.8392646313 - 0.291502714157 - 456
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43035.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72372.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/9811075-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/326.JPG cannot be found in images path
+itime:1890 - 49.7163519859 - 0.381664991379
+dbtime:54716 - 42.1656258106 - 0.326361179352 - 450
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/200-08.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4012-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/324.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72918-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/234.JPG cannot be found in images path
+itime:1900 - 50.0281460285 - 0.311673164368
+dbtime:55133 - 42.4280107021 - 0.26238489151 - 417
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/204-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10029.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/254.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1555-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/22014.JPG cannot be found in images path
+itime:1910 - 50.3547339439 - 0.326402902603
+dbtime:55559 - 42.7026724815 - 0.274661779404 - 426
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/60333-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09-004.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4018-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/43048.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/a09-004.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4019-2.JPG cannot be found in images path
+itime:1920 - 50.6392860413 - 0.284412145615
+dbtime:55973 - 42.939470768 - 0.236798286438 - 414
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72376-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/22555-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1334-5.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4022-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4021.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4022-7.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/70825-8.JPG cannot be found in images path
+itime:1930 - 50.9165289402 - 0.277107000351
+dbtime:56375 - 43.1700975895 - 0.230626821518 - 402
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/2223-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/1709/10ш.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/246.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/12-002(АV).JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/13-100.JPG cannot be found in images path
+itime:1940 - 51.1767110825 - 0.260033130646
+dbtime:56778 - 43.3859529495 - 0.215855360031 - 403
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/41753.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4017-3.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4017-4.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4021-10.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72579-1.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /totto/248.JPG cannot be found in images path
+itime:1950 - 51.4461319447 - 0.269265890121
+dbtime:57197 - 43.6105964184 - 0.224643468857 - 419
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortek/72566-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/09002(AV).JPG cannot be found in images path
+itime:1960 - 51.7394490242 - 0.293174982071
+dbtime:57651 - 43.8549325466 - 0.244336128235 - 454
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/13-120.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/10-16-2.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4017-6.JPG cannot be found in images path
+itime:1970 - 52.0873789787 - 0.347786903381
+dbtime:58101 - 44.1459796429 - 0.291047096252 - 450
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /sursil/47142.JPG cannot be found in images path
+plugin;ImageAttributeItemProcessor;warning:Image attributes processor v1.0.29 - /ortodon/4020-20.JPG cannot be found in images path
+itime:1974 - 52.2303130627 - 0.142749071121
+dbtime:58320 - 44.2649688721 - 0.118989229202 - 219
+info:Skus imported OK:1819/1819
+end:Import Ended

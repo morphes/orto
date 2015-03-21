@@ -1,0 +1,50 @@
+
+TIMING CATEGORY:db
+--------------------------------
+Phase:beforeImport
+- Class:Magmi_ProductImportEngine :0.0002 - Class:Magmi_CSVDataSource :0.0001 
+Phase:startImport
+- Class:Magmi_ProductImportEngine :0.0003 - Class:Magmi_CSVDataSource :0.0002 
+Phase:processColumnList
+- Class:Magmi_ProductImportEngine :0.0001 - Class:ImageAttributeItemProcessor :0.0001 - Class:Magmi_ConfigurableItemProcessor :0.0001 - Class:Magmi_DefaultAttributeItemProcessor :0.0001 
+Phase:processItemBeforeId
+- Class:Magmi_ProductImportEngine :0.0909 - Class:ImageAttributeItemProcessor :0.0583 - Class:Magmi_ConfigurableItemProcessor :0.0578 - Class:Magmi_DefaultAttributeItemProcessor :0.0488 
+Phase:processItemAfterId
+- Class:Magmi_ProductImportEngine :0.0894 - Class:ImageAttributeItemProcessor :0.0698 - Class:Magmi_ConfigurableItemProcessor :0.0528 - Class:Magmi_DefaultAttributeItemProcessor :0.074 
+Phase:processItemAfterImport
+- Class:Magmi_ProductImportEngine :0.0867 
+Phase:indb
+- Class:Magmi_ProductImportEngine :0.1118 - Class:Magmi_ConfigurableItemProcessor :0.111 - Class:ImageAttributeItemProcessor :0.0008 
+Phase:endImport
+
+Phase:afterImport
+
+TIMING CATEGORY:global
+--------------------------------
+Phase:beforeImport
+- Class:Magmi_ProductImportEngine :0.0002 - Class:Magmi_CSVDataSource :0.0001 
+Phase:startImport
+- Class:Magmi_ProductImportEngine :0.0003 - Class:Magmi_CSVDataSource :0.0002 
+Phase:processColumnList
+- Class:Magmi_ProductImportEngine :0.0001 - Class:ImageAttributeItemProcessor :0.0001 - Class:Magmi_ConfigurableItemProcessor :0.0001 - Class:Magmi_DefaultAttributeItemProcessor :0.0001 
+Phase:processItemBeforeId
+- Class:Magmi_ProductImportEngine :0.0909 - Class:ImageAttributeItemProcessor :0.0583 - Class:Magmi_ConfigurableItemProcessor :0.0578 - Class:Magmi_DefaultAttributeItemProcessor :0.0488 
+Phase:processItemAfterId
+- Class:Magmi_ProductImportEngine :0.0894 - Class:ImageAttributeItemProcessor :0.0698 - Class:Magmi_ConfigurableItemProcessor :0.0528 - Class:Magmi_DefaultAttributeItemProcessor :0.074 
+Phase:processItemAfterImport
+- Class:Magmi_ProductImportEngine :0.0867 
+Phase:endImport
+
+Phase:afterImport
+
+TIMING CATEGORY:line
+--------------------------------
+Phase:processItemBeforeId
+
+Phase:processItemAfterId
+
+Phase:processItemAfterImport
+
+Phase:endImport
+
+Phase:afterImport
